@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+gemini_geometry_wars.egg-info/PKG-INFO
+gemini_geometry_wars.egg-info/SOURCES.txt
+gemini_geometry_wars.egg-info/dependency_links.txt
+gemini_geometry_wars.egg-info/entry_points.txt
+gemini_geometry_wars.egg-info/requires.txt
+gemini_geometry_wars.egg-info/top_level.txt

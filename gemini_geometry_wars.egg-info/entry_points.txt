@@ -1,0 +1,2 @@
+[console_scripts]
+gemini_geometry_wars = gemini_geometry_wars.gemini_geometry_wars:main
