@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: gemini_geometry_wars
-Version: 1
+Version: 1.1
 Summary: This package contains implementation of Geometry Wars game with Google Gemini AI integrated into it.
 Home-page: https://github.com/SoftwareApkDev/gemini_geometry_wars
 Author: SoftwareApkDev
